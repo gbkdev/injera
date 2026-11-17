@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/make-injera/page": "app/make-injera/page.js",
+  "/journey/page": "app/journey/page.js",
+  "/stories/page": "app/stories/page.js",
+  "/learn/page": "app/learn/page.js"
+}

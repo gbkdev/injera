@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "brand": "INJERA",
+    "tagline": "The Journey from Teff to Table",
+    "journey": "The Journey",
+    "makeInjera": "Make Injera",
+    "culture": "Culture & Heritage",
+    "explore": "Explore Regions",
+    "stories": "Kitchen Stories",
+    "learn": "Learning & Quiz",
+    "about": "About & Sources",
+    "admin": "CMS Admin",
+    "soundOn": "Sound Enabled",
+    "soundOff": "Sound Muted",
+    "language": "Language",
+    "menu": "Menu",
+    "close": "Close"
+  },
+  "hero": {
+    "title": "INJERA",
+    "amharicTitle": "እንጀራ",
+    "subtitle": "The Sacred Journey from Teff to Table",
+    "description": "Experience the science, 3,000-year history, microscopic fermentation, and soulful communal traditions of Ethiopia's iconic sourdough flatbread.",
+    "beginCta": "Begin the 10-Stage Journey",
+    "exploreCta": "Explore the Culture",
+    "simulationCta": "Play Cooking Simulation",
+    "scrollPrompt": "Scroll to discover",
+    "featureStats": {
+      "stages": "10 Interactive Stages",
+      "history": "3,000+ Years Cultivated",
+      "glutenFree": "100% Naturally Gluten-Free",
+      "communal": "One Plate, Shared Hands"
+    }
+  },
+  "journey": {
+    "title": "The 10-Stage Sacred Journey",
+    "progress": "Stage Progress",
+    "prev": "Previous Stage",
+    "next": "Next Stage",
+    "finish": "Complete Journey",
+    "culturalInsight": "Cultural Meaning",
+    "scienceInsight": "Microbiology & Physics",
+    "toolsUsed": "Traditional Utensils",
+    "tipsTitle": "Elder Cook's Wisdom",
+    "regionalNote": "Regional Variations",
+    "interactiveHint": "Drag to rotate 3D view • Zoom with scroll • Tap hotspots to inspect",
+    "switchView": "Toggle 2D / 3D View"
+  },
+  "simulation": {
+    "title": "Make Your Injera — Interactive Simulation",
+    "subtitle": "Step into the traditional kitchen and guide each transformation by hand",
+    "step": "Step",
+    "of": "of",
+    "score": "Cultural Harmony Score",
+    "startBtn": "Start Baking Session",
+    "nextStep": "Proceed to Next Step",
+    "retry": "Try This Step Again",
+    "finish": "Present to the Mesob",
+    "disclaimer": "Note: This simulation celebrates traditional technique for educational discovery. Regional and family practices vary with love across Ethiopia.",
+    "completionTitle": "Journey Complete! You Crafted an Injera",
+    "completionBadge": "Master of the Sacred Hearth",
+    "shareCta": "Explore Cultural Deep Dives"
+  },
+  "culture": {
+    "title": "The Cultural Soul of Injera",
+    "subtitle": "Where ancient agronomy meets microbial genius and sacred hospitality",
+    "readArticle": "Read Full Article",
+    "sourcesTitle": "Scholarly Sources & Cultural References",
+    "readTime": "min read"
+  },
+  "explore": {
+    "title": "Culinary Geography of Ethiopia",
+    "subtitle": "Discover how landscape, grain varieties, and local heritage shape regional injera traditions",
+    "selectPrompt": "Select a region on the map to explore local grain blends, unique names, and signature stews",
+    "grainSpecialty": "Grain & Soil Specialty",
+    "injeraStyle": "Regional Injera Character",
+    "signatureDishes": "Paired Signature Dishes",
+    "tradition": "Heritage Spotlight"
+  },
+  "stories": {
+    "title": "Stories from the Kitchen & Field",
+    "subtitle": "Voices of teff growers, sourdough keepers, and diaspora cultural stewards",
+    "listenAudio": "Listen to Voice",
+    "culturalContext": "Cultural Context",
+    "demoNotice": "Demonstrative narrative created to illustrate authentic oral traditions."
+  },
+  "learn": {
+    "title": "Learning Center & Cultural Quiz",
+    "subtitle": "Test your understanding of teff agronomy, fermentation chemistry, and communal dining etiquette",
+    "quizTitle": "Interactive Knowledge Assessment",
+    "question": "Question",
+    "correct": "Correct! Wonderful understanding.",
+    "incorrect": "Not quite, but here is the traditional reasoning:",
+    "scoreLabel": "Your Final Score",
+    "restartQuiz": "Take Quiz Again",
+    "vocabTitle": "Amharic Culinary Lexicon (ፊደል)",
+    "pronunciation": "Pronunciation"
+  },
+  "about": {
+    "title": "About This Project & Cultural Methodology",
+    "statement": "Built to document, preserve, and honor Ethiopian food culture through modern interactive 3D technology.",
+    "authenticityTitle": "Our Commitment to Cultural Authenticity",
+    "sourcesListTitle": "Referenced Ethnobotanical & Historical Literature",
+    "techStackTitle": "Built with Modern Web Standards",
+    "contactTitle": "Contributions & Community Feedback"
+  },
+  "footer": {
+    "culturalQuote": "From a microscopic teff seed nurtured by the Ethiopian sun to the shared joy of the communal Mesob: Injera is the rhythm of family, patience, and generosity.",
+    "rights": "All rights reserved. Dedicated to the traditional bakers and farmers of Ethiopia.",
+    "accessibility": "Accessibility Statement",
+    "privacy": "Cultural Preservation Archive"
+  }
+}
